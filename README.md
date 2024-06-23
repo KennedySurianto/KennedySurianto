@@ -1,5 +1,3 @@
-![Header Image](https://i.pinimg.com/736x/45/1f/77/451f771ff5eb06ed4f33eb88fe65178c.jpg)
-
 # Hello, I'm Kennedy Surianto! 👋
 
 ## About Me
@@ -17,4 +15,4 @@ I am currently learning:
 - **Solidity:** The programming language for writing smart contracts on Ethereum.
 
 ## Connect with Me
-[![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png)](keni6761)
+- Discord: keni6761
