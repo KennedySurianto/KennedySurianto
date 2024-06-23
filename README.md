@@ -4,8 +4,8 @@
 I am currently a student at BINUS University majoring in Information Systems.
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, Java, C
-- **Frameworks/Libraries:** Bootstrap, Node.js, Express.js, EJS
+- **Languages:** HTML, CSS, JavaScript, Java, C, PHP
+- **Frameworks/Libraries:** Bootstrap, Laravel, Node.js, Express.js, EJS
 - **Databases:** SQL Server, PostgreSQL
 - **Design:** Figma
 
