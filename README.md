@@ -7,7 +7,7 @@ I am currently a student at BINUS University majoring in Information Systems.
 - **Languages:** HTML, CSS, JavaScript, Java, C, PHP
 - **Frameworks:** Bootstrap, Laravel, Node.js, Express.js
 - **Databases:** SQL Server, MySQL, PostgreSQL
-- **Design:** Figma
+- **Design:** Figma, Visual Paradigm 
 
 ## What I'm Learning
 I am currently learning:
